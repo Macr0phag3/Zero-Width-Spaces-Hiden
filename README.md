@@ -1,5 +1,5 @@
 # Zero-Width-Spaces-Hiden
-利用不可见的空格字符来隐藏信息。
+利用不可见的Unicode空格字符来隐藏信息。
 
 Hide information using Unicode(Zero-Width-Spaces).
 
