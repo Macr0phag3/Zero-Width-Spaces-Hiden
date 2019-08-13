@@ -1,4 +1,5 @@
 # encoding: utf8
+# 零宽字符插入头部
 import codecs
 from typing import Union
 
