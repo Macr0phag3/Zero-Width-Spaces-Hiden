@@ -3,7 +3,7 @@
 
 Hide information using Unicode(Zero-Width-Spaces).
 
-You can read a interesting article 
+You can read this interesting article 
 
 [Here](http://www.freebuf.com/articles/web/167903.html)
 
